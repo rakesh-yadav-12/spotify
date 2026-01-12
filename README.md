@@ -5,8 +5,10 @@ A responsive **Spotify Web Player UI clone** built using **HTML, CSS, and JavaSc
 
 > ⚠️ This is a **frontend-only project** created for learning and practice purposes. It is **not affiliated with Spotify**.
 > <img width="1877" height="969" alt="image" src="https://github.com/user-attachments/assets/d8908c97-3454-4df3-9394-1064c6d1e4f4" />
+<img width="1893" height="1059" alt="image" src="https://github.com/user-attachments/assets/d881f31a-c212-4a67-aa0d-b12b48514e7e" />
 
-![Uploading image.png…]()
+
+
 
 video Link : https://go.screenpal.com/watch/cOVl2unradV
 ---
