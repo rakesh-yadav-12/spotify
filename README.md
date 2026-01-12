@@ -4,7 +4,11 @@
 A responsive **Spotify Web Player UI clone** built using **HTML, CSS, and JavaScript**. This project replicates the look and feel of Spotify’s web interface, including sidebar navigation, playlists, play controls, and a dynamic song list.
 
 > ⚠️ This is a **frontend-only project** created for learning and practice purposes. It is **not affiliated with Spotify**.
+> <img width="1877" height="969" alt="image" src="https://github.com/user-attachments/assets/d8908c97-3454-4df3-9394-1064c6d1e4f4" />
 
+![Uploading image.png…]()
+
+video Link : https://go.screenpal.com/watch/cOVl2unradV
 ---
 
 ## 🚀 Features
